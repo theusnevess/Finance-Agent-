@@ -1,0 +1,14 @@
+# Exclui a pasta de dependências (comum em Node, Python, etc.)
+node_modules
+venv
+.venv
+target/
+build/
+
+# Exclui arquivos de ambiente sensíveis
+.env
+
+# Exclui arquivos de IDEs (VS Code, IntelliJ, etc.)
+.vscode/
+.idea/
+*.iml
